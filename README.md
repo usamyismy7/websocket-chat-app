@@ -4,7 +4,7 @@
 
 ### Brief description
 
-this is a web socket chat application using socket.io
+this is a websocket chat application using socket.io
 
 ### Features
 
