@@ -44,6 +44,8 @@ Open [http://localhost:4000](http://localhost:4000) with your browser to see the
 
 ## Screenshots
 
-![app](./assets/image2.png)
-![app2](./assets/image3.png)
-![terminal](./assets/image.png)
+![app](https://raw.githubusercontent.com/usamyismy7/websocket-chat-app/master/assets/image2.png)
+
+![app2](https://raw.githubusercontent.com/usamyismy7/websocket-chat-app/master/assets/image3.png)
+
+![terminal](https://raw.githubusercontent.com/usamyismy7/websocket-chat-app/master/assets/image.png)
